@@ -1,0 +1,61 @@
+TBreakthrough Minimax
+v7
+r0
+t381733261.092042
+cCheck dependencies
+cCompileC "build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Objects-normal/x86_64/main.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough Minimax" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Objects-normal/x86_64/Breakthrough Minimax.LinkFileList
+c000000005110920B000000000000009A
+t1360040459
+s154
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Objects-normal/x86_64/main.o
+t1360040461
+s157704
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough Minimax
+t1360040461
+s51072
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp
+c0000000051108ED30000000000006994
+t1360039635
+s27028
+i<iostream>
+i<vector>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies381733259#381733259#0(0"0(0#1#0"8600308288#0"0#
+
+CCompileC "build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Objects-normal/x86_64/main.o" "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s381733259.522906
+e381733261.037620
+r1
+xCompileC
+xbuild/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Objects-normal/x86_64/main.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp381733259#381733261#0(0"0(0#0#67"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp8600653024#1767"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Breakthrough Minimax-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Breakthrough Minimax-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Breakthrough Minimax-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Breakthrough Minimax-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough Minimax" normal x86_64
+s381733261.037956
+e381733261.091987
+r1
+xLd
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough Minimax
+xnormal
+xx86_64
+lSLF07#2@96"Link /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough Minimax381733261#381733261#0(0"0(0#0#0"8629890208#660"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug" -filelist "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough Minimax.build/Debug/Breakthrough Minimax.build/Objects-normal/x86_64/Breakthrough Minimax.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough Minimax"0#
+

@@ -1,0 +1,88 @@
+TBreakthrough
+v7
+r0
+t381732437.136445
+cCheck dependencies
+cCompileC build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/main.o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp
+c00000000511034100000000000000CA4
+t1360016400
+s3236
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.h
+c0000000051100B160000000000000097
+t1360005910
+s151
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/Breakthrough.LinkFileList
+c0000000051103444000000000000008A
+t1360016452
+s138
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/PieceAttributes.o
+t2
+s0
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/main.o
+t1360039637
+s157704
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough
+t1360039637
+s51056
+
+N/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp
+c0000000051108ED30000000000006994
+t1360039635
+s27028
+i<iostream>
+i<vector>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies381732436#381732436#0(0"0(0#1#0"8627261856#0"0#
+
+CCompileC build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/PieceAttributes.o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s381709202.892817
+e381709202.894053
+r0
+xCompileC
+xbuild/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/PieceAttributes.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp381709202#381709202#0(541"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp:71: error: 'BoardState' was not declared in this scope/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp:71: error: expected primary-expression before 'int'/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp:71: error: initializer expression list treated as compound expression/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp:72: error: expected ',' or ';' before '{' token4(4@43"'BoardState' was not declared in this scope381709202#0#134#0(6@78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp381709200#71#0#71#0#34"'*' was not declared in this scope0(4@40"Expected primary-expression before 'int'381709202#134#131#0(6@78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp381709200#71#0#71#0#19"expected * before *0(4@58"Initializer expression list treated as compound expression381709202#265#149#0(6@78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp381709200#71#0#71#0#0"0(4@36"Expected ',' or ';' before '{' token381709202#414#127#0(6@78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp381709200#72#0#72#0#19"expected * before *0(0#0#78"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp8628538560#1645"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/PieceAttributes.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/PieceAttributes.o"1#
+
+CCompileC build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/main.o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s381732436.858539
+e381732437.086845
+r1
+xCompileC
+xbuild/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/main.o
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp381732436#381732437#0(0"0(0#0#67"/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp8627293600#1623"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-generated-files.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-own-target-headers.hmap" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-all-target-headers.hmap" -iquote "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Breakthrough-project-headers.hmap" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/include" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/DerivedSources/x86_64" "-I/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/DerivedSources" -c "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/main.cpp" -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough" normal x86_64
+s381732437.086949
+e381732437.136359
+r1
+xLd
+x/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough381732437#381732437#0(0"0(0#0#0"8630304672#628"    cd "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug" "-F/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug" -filelist "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Breakthrough.build/Debug/Breakthrough.build/Objects-normal/x86_64/Breakthrough.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Kat/Documents/School/2012-2013/Game AI/Breakthrough/build/Debug/Breakthrough"0#
+
